@@ -4,7 +4,7 @@
 <p>Sou o Marcos Matias, um entusiasta de 18 anos apaixonado por Front-End. Busco aprimorar minhas habilidades e conhecimentos constantemente para criar experiências web incríveis e impactantes. Sempre em busca de novos desafios e aprendizados para contribuir com projetos criativos e inovadores!</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Front end developer <a href="https://www.oneorigin.us/">
+<p><em>Front end developer | Back end developer <a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 </div>
