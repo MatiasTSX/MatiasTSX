@@ -1,31 +1,14 @@
-## Oiii eu sou o Marcos Matias!
+## Marcos Matias
 
-<div>
-<p>Sou o Marcos Matias, um entusiasta de 18 anos apaixonado por Front-End. Busco aprimorar minhas habilidades e conhecimentos constantemente para criar experiências web incríveis e impactantes. Sempre em busca de novos desafios e aprendizados para contribuir com projetos criativos e inovadores!</p>
+Developer Front End.
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Front end developer | Back end developer <a href="https://www.oneorigin.us/">
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
-</div>
+I'm a _JavaScript_ Full-Stack Developer (Node.js, ReactJS, VueJs).<br/>
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  
+Here on my GitHub profile you can see all my projects.  
+Also I like to help new Dev's to get inside this world and learning about software development.
 
- 
+<a href="https://www.linkedin.com/in/marcos-matiasfront/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Elias%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/></a>
 
-</div>
-  
-  ##
- 
-<div> 
-
-  <a href="https://www.linkedin.com/in/marcos-matias-288635262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
