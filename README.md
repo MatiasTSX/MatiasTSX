@@ -7,7 +7,7 @@ I'm a _JavaScript_ Full-Stack Developer (Node.js, ReactJS, VueJs).<br/>
 Here on my GitHub profile you can see all my projects.  
 Also I like to help new Dev's to get inside this world and learning about software development.
 
-<a href="https://www.linkedin.com/in/marcos-matiasfront/">Marcos</a>
+<a href="https://www.linkedin.com/in/marcos-matiasfront/">Linkedin</a>
 
   
 </div>
