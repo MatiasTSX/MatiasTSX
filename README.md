@@ -16,6 +16,8 @@ Also I like to help new Dev's to get inside this world and learning about softwa
 
    <img align="center" alt="s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
+   <img align="center" alt="s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+
 </div>
 
 
