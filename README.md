@@ -1,8 +1,8 @@
 ## Marcos Matias
 
-Developer Front End and Mobile.
+Developer Front End.
 
-I'm a Mobile Developer<br/>
+I'm a Front End Developer<br/>
 
 Here on my GitHub profile you can see all my projects.  
 Also I like to help new Dev's to get inside this world and learning about software development.
