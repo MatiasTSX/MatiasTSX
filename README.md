@@ -9,7 +9,7 @@ Also I like to help new Dev's to get inside this world and learning about softwa
 
 <div style="display: inline_block"><br>
    <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
+   <img align="center" alt="" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 
