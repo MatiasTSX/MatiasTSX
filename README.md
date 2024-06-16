@@ -1,6 +1,6 @@
 ## Marcos Matias
 
-Developer Front End.
+Developer Front End and Mobile.
 
 I'm a Front End Developer and Mobile Developer <br/>
 
